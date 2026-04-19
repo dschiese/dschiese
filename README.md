@@ -2,7 +2,6 @@
 - 👀 I’m interested in sports, especially road cycling and hiking, thus, I love the mountains
 - 🌱 I’m currently studying for a Master's degree in computer science 
 - 📫 How to reach me: Discord (dennis.shs) or LinkedIn
-- 
 
 <!---
 dschiese/dschiese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
