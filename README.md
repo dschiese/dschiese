@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dschiese
-- 👀 I’m interested in sports (participating in a triathlon this year), traveling, and working on myself 
-- 🌱 I’m currently learning so many different things! However, regarding computer science, I want to dive deeper into machine and deep learning. When it comes to programming languages, I want to learn Python and Kotlin anytime soon.
-- 📫 How to reach me: Discord (dennis.shs)
+- 👀 I’m interested in sports, especially road cycling and hiking, thus, I love the mountains
+- 🌱 I’m currently studying for a Master's degree in computer science 
+- 📫 How to reach me: Discord (dennis.shs) or LinkedIn
 - 
 
 <!---
